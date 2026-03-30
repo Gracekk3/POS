@@ -1,13 +1,5 @@
 # Cisco Packet Tracer – LAN
 
-## Zadání
-
-Vytvořit jednoduchou LAN síť ve Cisco Packet Traceru se dvěma switchemi (S1, S2) a čtyřmi počítači (PC1–PC4).
-PC1 a PC2 jsou připojeny ke switchi S1, PC3 a PC4 ke switchi S2. Switche jsou mezi sebou propojeny.
-Konfigurace switchů probíhá přes Laptop pomocí konzole.
-
----
-
 ## Výpočet X a Y
 
 Jméno: Gracjan

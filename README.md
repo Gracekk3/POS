@@ -6,10 +6,12 @@ Jméno: Gracjan
 Příjmení: Cemerys
 
 X = součet ASCII hodnot příjmení mod 256
-= 728 mod 256 = **216**
+C(67) + e(101) + m(109) + e(101) + r(114) + y(121) + s(115) = 728
+X = 728 mod 256 = 216
 
 Y = součet ASCII hodnot jména mod 10
-= 694 mod 10 = **4**
+G(71) + r(114) + a(97) + c(99) + j(106) + a(97) + n(110) = 694
+Y = 694 mod 10 = 4
 
 ---
 

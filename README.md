@@ -66,3 +66,4 @@ Ping byl úspěšný, takže síť funguje správně.
 
 <img width="656" height="654" alt="Snímek obrazovky 2026-03-30 155305" src="https://github.com/user-attachments/assets/26d612e4-71f0-4b94-83ac-bcd62ad232a0" />
 <img width="694" height="656" alt="Snímek obrazovky 2026-03-30 155254" src="https://github.com/user-attachments/assets/232d1c04-3e77-404f-8977-b9a0a6161f1f" />
+<img width="685" height="652" alt="Snímek obrazovky 2026-03-31 085816" src="https://github.com/user-attachments/assets/2cfe3733-fa4b-4102-aff3-693f61691d1e" />
